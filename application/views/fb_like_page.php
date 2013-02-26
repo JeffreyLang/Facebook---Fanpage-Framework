@@ -1,0 +1,4 @@
+<?=Headers(); ?>
+Like Page
+
+<?=Footer();?>
